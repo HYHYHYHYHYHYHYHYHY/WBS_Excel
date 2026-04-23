@@ -5,8 +5,8 @@ This repository provides Excel files that help project managers quickly create a
 
 ### Overview
 
-- **WBS_Excel_V0.0.xlsx** is the **main** WBS Excel template.
-- **WBS_Excel_V0.0_JP Example.xlsx** is a **Japanese example** version.
+- **WBS_Excel_V0.1.xlsx** is the **main** WBS Excel template.
+- **WBS_Excel_V0.1_JP Example.xlsx** is a **Japanese example** version.
 
 The sample content included in the sheets (e.g., an HR BPO vendor change project) is provided **only as a usage example**.
 The main purpose of this repository is that you can create and manage a WBS in Excel regardless of what the project is.
@@ -42,8 +42,8 @@ Microsoft Excel を使った WBS（Work Breakdown Structure / 作業分解構造
 
 ### 概要
 
-- **WBS_Excel_V0.0.xlsx**：メインの WBS Excel テンプレートです。
-- **WBS_Excel_V0.0_JP Example.xlsx**：日本語版の使用例（サンプル）です。
+- **WBS_Excel_V0.1.xlsx**：メインの WBS Excel テンプレートです。
+- **WBS_Excel_V0.1_JP Example.xlsx**：日本語版の使用例（サンプル）です。
 
 シート内に含まれる「人事業務BPOベンダー変更プロジェクト」などの内容は、あくまで **入力例（使用例）** として掲載しているものです。
 本リポジトリの主目的は、特定のプロジェクトに依存せず、どのようなプロジェクトでも WBS を Excel で作成できることです。
